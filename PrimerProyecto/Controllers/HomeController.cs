@@ -15,6 +15,11 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        ViewBag.Hotel = "";
+        ViewBag.Aereo = 0;
+        ViewBag.Excursion = "";
+
         return View();
     }
+    
 }
