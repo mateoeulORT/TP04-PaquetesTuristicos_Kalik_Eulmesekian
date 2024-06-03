@@ -15,11 +15,17 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        ViewBag.Hotel = "";
-        ViewBag.Aereo = 0;
-        ViewBag.Excursion = "";
-
+        ViewBag.Paquete = OrtWorld.DicPaquetes;
         return View();
     }
+        public IActionResult SelectPaquete()
+    {
+        ViewBag.Hotel = OrtWorld.ListaHoteles;
+        ViewBag.Aereo = OrtWorld.ListaAereos;
+        ViewBag.Excursion =OrtWorld.ListaExcursiones;
+        ViewBag.Destino = OrtWorld.ListaDestinos;
+        return View();
+    }
+    
     
 }
