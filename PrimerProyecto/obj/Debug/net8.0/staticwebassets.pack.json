@@ -1,183 +1,183 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\css\\site.css",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\favicon.ico",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\Aereolineas Argentinas.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\Aereolineas Argentinas.jpg",
       "PackagePath": "staticwebassets\\img\\Aereolineas Argentinas.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\Air France.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\Air France.jpg",
       "PackagePath": "staticwebassets\\img\\Air France.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\BOA.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\BOA.jpg",
       "PackagePath": "staticwebassets\\img\\BOA.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\Fly emirates.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\Fly emirates.jpg",
       "PackagePath": "staticwebassets\\img\\Fly emirates.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\LAN.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\LAN.jpg",
       "PackagePath": "staticwebassets\\img\\LAN.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\Qatar airways.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\Qatar airways.jpg",
       "PackagePath": "staticwebassets\\img\\Qatar airways.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\air belgium.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\air belgium.jpg",
       "PackagePath": "staticwebassets\\img\\air belgium.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu1.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu1.jpg",
       "PackagePath": "staticwebassets\\img\\excu1.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu10.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu10.jpg",
       "PackagePath": "staticwebassets\\img\\excu10.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu2.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu2.jpg",
       "PackagePath": "staticwebassets\\img\\excu2.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu3.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu3.jpg",
       "PackagePath": "staticwebassets\\img\\excu3.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu4.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu4.jpg",
       "PackagePath": "staticwebassets\\img\\excu4.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu5.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu5.jpg",
       "PackagePath": "staticwebassets\\img\\excu5.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu6.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu6.jpg",
       "PackagePath": "staticwebassets\\img\\excu6.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu7.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu7.jpg",
       "PackagePath": "staticwebassets\\img\\excu7.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu8.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu8.jpg",
       "PackagePath": "staticwebassets\\img\\excu8.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu9.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\excu9.jpg",
       "PackagePath": "staticwebassets\\img\\excu9.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\flybondi.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\flybondi.jpg",
       "PackagePath": "staticwebassets\\img\\flybondi.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\iberia.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\iberia.jpg",
       "PackagePath": "staticwebassets\\img\\iberia.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen1.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen1.jpg",
       "PackagePath": "staticwebassets\\img\\imagen1.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen10.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen10.jpg",
       "PackagePath": "staticwebassets\\img\\imagen10.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen2.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen2.jpg",
       "PackagePath": "staticwebassets\\img\\imagen2.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen3.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen3.jpg",
       "PackagePath": "staticwebassets\\img\\imagen3.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen4.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen4.jpg",
       "PackagePath": "staticwebassets\\img\\imagen4.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen5.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen5.jpg",
       "PackagePath": "staticwebassets\\img\\imagen5.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen6.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen6.jpg",
       "PackagePath": "staticwebassets\\img\\imagen6.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen7.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen7.jpg",
       "PackagePath": "staticwebassets\\img\\imagen7.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen8.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen8.jpg",
       "PackagePath": "staticwebassets\\img\\imagen8.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen9.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\imagen9.jpg",
       "PackagePath": "staticwebassets\\img\\imagen9.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\lufthansa.jpg",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\img\\lufthansa.jpg",
       "PackagePath": "staticwebassets\\img\\lufthansa.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\js\\site.js",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\48044168\\Desktop\\TP_04_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "Z:\\Info\\4to año\\Programación\\2do bimestre\\TP04-PaquetesTuristicos_Kalik_Eulmesekian\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

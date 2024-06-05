@@ -30,8 +30,14 @@ public class HomeController : Controller
      
     public IActionResult GuardarPaquete(int Destino, int Hotel, int Aereo, int Excursion)
     {
-       Paquete paqueteNuevo = new Paquete ( OrtWorld.ListaHoteles(Hotel),OrtWorld.ListaAereos(Aereo), OrtWorld.ListaExcursiones(Excursion), OrtWorld.ListaDestinos(Destino));
-
-       return View();
+        if (Destino > 0 && Destino <= 10 && Hotel > 0 && Hotel <= 10 && Excursion > 0 && Excursion <= 10 && Aereo > 0 && Aereo <= 10)
+        {
+            Paquete paqueteNuevo = new Paquete (OrtWorld.ListaHoteles[Hotel], OrtWorld.ListaAereos[Aereo], OrtWorld.ListaExcursiones[Excursion]);
+            OrtWorld.DicPaquetes.Add(OrtWorld.ListaDestinos[Destino], paqueteNuevo);
+        }
+        else{
+            return View("SelectPaquete");   
+        }
+       return View("Index");
     }
 }

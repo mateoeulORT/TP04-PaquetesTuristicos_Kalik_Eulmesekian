@@ -27,3 +27,32 @@ C:\Users\48044168\Desktop\TP_04_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.
 C:\Users\48044168\Desktop\TP_04_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.pdb
 C:\Users\48044168\Desktop\TP_04_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.genruntimeconfig.cache
 C:\Users\48044168\Desktop\TP_04_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\ref\PrimerProyecto.dll
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\bin\Debug\net8.0\appsettings.Development.json
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\bin\Debug\net8.0\appsettings.json
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.staticwebassets.runtime.json
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.exe
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.deps.json
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.runtimeconfig.json
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.dll
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.pdb
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.AssemblyInfoInputs.cache
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.AssemblyInfo.cs
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.csproj.CoreCompileInputs.cache
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.MvcApplicationPartsAssemblyInfo.cache
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.RazorAssemblyInfo.cache
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.RazorAssemblyInfo.cs
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.sourcelink.json
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\staticwebassets\msbuild.PrimerProyecto.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\staticwebassets\msbuild.build.PrimerProyecto.props
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PrimerProyecto.props
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PrimerProyecto.props
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\scopedcss\bundle\PrimerProyecto.styles.css
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.dll
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\refint\PrimerProyecto.dll
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.pdb
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.genruntimeconfig.cache
+Z:\Info\4to año\Programación\2do bimestre\TP04-PaquetesTuristicos_Kalik_Eulmesekian\PrimerProyecto\obj\Debug\net8.0\ref\PrimerProyecto.dll
