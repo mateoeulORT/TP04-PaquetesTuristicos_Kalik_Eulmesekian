@@ -5,5 +5,11 @@
 <div>
     <h1>Index</h1>
     <p>Bienvenidos al sitio web de NombreProyecto</p>
-    <a href='@Url.Action("SelectPaquete", "HomeController")'>Crear Paquete</a>
+    <a href='@Url.Action("SelectPaquete")'>Crear Paquete</a>
+
 </div>
+
+    @foreach (string destino in @ViewBag.Paquete.Keys)
+    {
+        <p>@destino</p>
+    }
