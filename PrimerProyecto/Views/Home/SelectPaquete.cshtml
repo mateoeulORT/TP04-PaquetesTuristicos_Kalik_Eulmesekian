@@ -4,8 +4,40 @@
     <h3>@item</h3>
 }
 
-<form method="" action="">
-    Destino:<input> type="nunmber"/> <br/>
+<h1>Destinos:</h1>
+@for(int i = 0; i < @ViewBag.Destino.length; i++)
+{
+    <img src="~/img/@(ViewBag.Destino[i])" width='18%'  height='auto' />
+}
 
+
+<h1>Hoteles:</h1>
+@for(int i = 0; i < @ViewBag.Hotel.length; i++)
+{
+    <img src="~/img/@(ViewBag.Hotel[i])" width='18%'  height='auto' />
+}
+
+<h1>Excursiones:</h1>
+@for(int i = 0; i < @ViewBag.Excursion.length; i++)
+{
+    <img src="~/img/@(ViewBag.Excursion[i])" width='18%'  height='auto' />
+}
+
+<h1>Aereos:</h1>
+@for(int i = 0; i < @ViewBag.Aereo.length; i++)
+{
+    <img src="~/img/@(ViewBag.Aereo[i])" width='18%'  height='auto' />
+}
+
+
+
+
+<form method="" action='@Url.Action("GuardarPaquete")'>
+    Destino:<input type="nunmber" min = 1 max = 10/> <br/>
+    Hotel:<input type="nunmber" min = 1 max = 10/> <br/>
+    Excursiones:<input type="nunmber" min = 1 max = 10/> <br/>
+    Aereo:<input type="nunmber" min = 1 max = 10/> <br/>
+
+    
 </form>
 
